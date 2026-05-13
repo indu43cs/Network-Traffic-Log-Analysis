@@ -55,6 +55,9 @@ Network Traffic Log Analysis/
 ├── requirements.txt   # Python dependencies
 ├── README.md          # Project documentation
 └── .venv/             # Virtual environment
+
+```
+
 # Features
 
 ## 1. PCAP File Loading
